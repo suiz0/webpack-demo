@@ -1,0 +1,1 @@
+$('body').innerText = 'Webpack demo';
